@@ -1,0 +1,19 @@
+{"encounter":[{
+                "id":1, 
+                "name":"test encounter 1"
+            },
+            {
+                "id":2, 
+                "name":"test encounter 2"
+            },
+            {
+                "id":3, 
+                "name":"test encounter 3"
+            },
+            {
+                "id":4, 
+                "name":"test encounter 4"
+            }
+]
+    
+}
